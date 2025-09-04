@@ -39,7 +39,7 @@ I'm a **Computer Science** student with a concentration in **AI** from **Northea
 ---
 
 ### Notable Projects
-- **Husky Handbook**:"Consolidating every campus resource and streamlining student info into an official mobile app using **React Native**, and intuitive **UI/UX design**.
+- **Husky Handbook**: Consolidating every campus resource and streamlining student info into an official mobile app using **React Native**, and intuitive **UI/UX design**.
 - **Unity Game**: Developed escape-themed Unity game through **C#** scripting and **Unity** components.
 - **DIY Arduino Piano**: Engineered a functional cardboard piano using **Arduino IDE** and **C++**.
 
