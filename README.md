@@ -1,6 +1,6 @@
 ### Hi, my name is William Hon!👋
 
-I'm a **Computer Science** student with a concentration in **AI** from **Northeastern University**, currently working on a **Husky Handbook** which is a mobile app for Northeastern. I’m passionate about leveraging **AI and software development skills** to help create applications that solve large scale community issues!
+I'm a **Computer Science** student with a concentration in **AI** from **Northeastern University**. I’m passionate about leveraging **AI and software development skills** to help create applications that solve large scale community issues!
 
 ---
 
