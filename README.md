@@ -26,6 +26,19 @@ I'm a **Computer Science** student with a concentration in **AI** from **Northea
 ---
 
 ### Experience
+
+#### **Bain & Company** | *Full-Stack Software Engineer* | Boston, MA *(Jan 2026 – Jun 2026)*
+- Built Bain’s AI analytics infrastructure aggregating usage & cost data across 3.1T+ tokens, 230M+ API requests,
+2.2K+ projects, & 18.2K+ API keys across OpenAI, Anthropic, Cursor, & other cloud platforms.
+- Designed & implemented the cloud computing architecture for Bain’s AI consumption platform, provisioning 8+
+Azure cloud resources & 32+ serverless backend Python functions through Terraform-based IaC pipelines.
+- Developed a TypeScript analytics dashboard from scratch with 10+ metadata filters & 30+ API endpoints, giving
+teams visibility into AI usage metrics & reducing FinOps reporting workflows from ∼1 hour to <30 seconds.
+- Shipped live production changes to Bain’s internal AI technology platform, including Cursor integration for
+1,000+ enterprise licenses & an LLM-integrated workflow monitoring application changes, tracked deployments, &
+generated alerts for updates pushed to the platform
+
+
 #### **Northeastern** | *Paid Research Assistant* | Boston, MA *(Jan 2025 – Present)*
 - Developed a **Python** script with **Selenium** and **Pandas** to scrape and analyze cases awaiting Supreme Court consideration, achieving 90%+ data accuracy.
 - Applied **NLP** techniques with **Hugging Face LLMs** to identify relevant legal documents, increasing the relevance of smaller cases and supporting their petitions for Supreme Court consideration.
